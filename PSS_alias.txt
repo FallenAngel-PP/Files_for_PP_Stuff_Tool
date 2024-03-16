@@ -12,6 +12,7 @@
 # Pico Indie Games
 #
 #
+    "com.drbeef.beefraiderxr" : "Beef Raider XR",
     "ru.maximoff.apktool" : "Apktool M",
     "com.BaggyG.JKXR_Companion_App" : "Jedi Knight XR Launcher",
     "com.BaggyG.RazeXR_Launcher" : "RazeXR Launcher",
