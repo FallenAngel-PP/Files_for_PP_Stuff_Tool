@@ -7,7 +7,11 @@
 # Start New stuff here
 # Adds by Kilroy's Arts (The_real_Kilroy)
 #
-# and
+# Oculus Quest Ports
+#
+#
+    "com.beatgames.beatsaber" : "Beat Saber",
+# 
 #
 # Pico Indie Games
 #
