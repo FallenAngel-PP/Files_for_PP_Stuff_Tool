@@ -101,6 +101,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.AliveInTech.Tranzient" : "Tranzient",
     "com.BolverkGames.GenotypeGame" : "Genotype",
     "com.theia.UndeadQueastF" : "Undead Quest",
     "com.CharmingGame.ShadowStrikeVR" : "Shadow Strike VR",
