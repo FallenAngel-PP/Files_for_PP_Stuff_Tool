@@ -101,6 +101,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.wolfandwood.csmash" : "C-Smash",
     "com.PlazmaStudio.expansionprototype" : "Expansion",
     "com.fasttravelgames.lollipop" : "Vampire: The Masquerade - Justice",
     "com.AliveInTech.Tranzient" : "Tranzient",
