@@ -65,6 +65,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.CrystalApps.PuzzleAdventure" : "Puzzle Adventure",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
     "com.Overrungames.Arcaxer" : "Arcaxer",
@@ -101,6 +102,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.CrumblingGames.Crumbling" : "Crumbling",
+    "online.yshh.zhan" : "Ninja - Waltz of Night",
     "com.wolfandwood.csmash" : "C-Smash VRS",
     "com.PlazmaStudio.expansionprototype" : "Expansion",
     "com.fasttravelgames.lollipop" : "Vampire: The Masquerade - Justice",
