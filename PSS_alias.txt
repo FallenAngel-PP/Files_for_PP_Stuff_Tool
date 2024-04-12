@@ -103,6 +103,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.OPENtech.Overworld" : "Project: Overworld - Demo",
+    "com.LionCastle.AstroChef" : "Astro Chef",
     "com.CrumblingGames.Crumbling" : "Crumbling",
     "online.yshh.zhan" : "Ninja - Waltz of Night",
     "com.wolfandwood.csmash" : "C-Smash VRS",
@@ -581,6 +583,7 @@
 # PicoLab Games
 #
 #
+    "com.And7Limited.HitstreamDemo" : "Hitstream Demo",
     "tech.belivr.Karga" : "Karga",
     "com.thirdverse.xtrapol8" : "X8",
     "com.pvr.robmembor" : "Robmembor",
