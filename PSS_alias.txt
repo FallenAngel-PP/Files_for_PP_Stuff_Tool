@@ -103,6 +103,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.DefaultCompany.Myproject9" : "Magic Book Adventure",
     "com.OPENtech.Overworld" : "Project: Overworld - Demo",
     "com.LionCastle.AstroChef" : "Astro Chef",
     "com.CrumblingGames.Crumbling" : "Crumbling",
@@ -583,6 +584,7 @@
 # PicoLab Games
 #
 #
+    "com.DEnM.Metaenga" : "Metaenga - XR Training Platform",
     "com.And7Limited.HitstreamDemo" : "Hitstream Demo",
     "tech.belivr.Karga" : "Karga",
     "com.thirdverse.xtrapol8" : "X8",
