@@ -103,6 +103,10 @@
 # Global Pico Store Apps
 #
 #
+    "com.SFVR.VRWar" : "VR Wolves Team",
+    "com.VRxpert.Fear2Fly.Pico" : "VRFH-Fear2Fly",
+    "com.Mediafarm.demosacademymetaclass" : "Demos XP",
+    "com.KnuckleheadStudios.AnneFrank" : "Anne Frank House VR",
     "com.DefaultCompany.Myproject9" : "Magic Book Adventure",
     "com.OPENtech.Overworld" : "Project: Overworld - Demo",
     "com.LionCastle.AstroChef" : "Astro Chef",
