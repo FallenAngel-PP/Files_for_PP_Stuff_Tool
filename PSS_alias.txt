@@ -588,6 +588,7 @@
 # PicoLab Games
 #
 #
+    "com.xspacesvr.vr" : "xSpaces VR",
     "com.DEnM.Metaenga" : "Metaenga - XR Training Platform",
     "com.And7Limited.HitstreamDemo" : "Hitstream Demo",
     "tech.belivr.Karga" : "Karga",
