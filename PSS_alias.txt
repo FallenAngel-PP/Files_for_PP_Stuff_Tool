@@ -103,6 +103,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.initiumStudio.Offroad" : "Offroad",
+    "com.tecworks.terrorcavevrhd" : "Terror Cave HD",
     "com.SFVR.VRWar" : "VR Wolves Team",
     "com.VRxpert.Fear2Fly.Pico" : "VRFH-Fear2Fly",
     "com.Mediafarm.demosacademymetaclass" : "Demos XP",
