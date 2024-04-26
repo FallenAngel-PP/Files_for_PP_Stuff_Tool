@@ -103,6 +103,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.TRC.Atlas" : "The Atlas Mystery - A VR Puzzle Game",
     "com.initiumStudio.Offroad" : "Offroad",
     "com.tecworks.terrorcavevrhd" : "Terror Cave HD",
     "com.SFVR.VRWar" : "VR Wolves Team",
