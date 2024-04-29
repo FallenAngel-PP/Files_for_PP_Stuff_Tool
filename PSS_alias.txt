@@ -103,6 +103,11 @@
 # Global Pico Store Apps
 #
 #
+    "com.pvr.robmembor_release" : "Robmembor",
+    "motovrx.bike.racing.game.pico" : "Moto VRX",
+    "com.s8l.vst" : "VR Speech Trainer",
+    "jp.idoga.idogaforpico" : "Idoga VR",
+    "com.JollyCo.SugarMess.Demo" : "Sugar Mess - Let's Play Jolly Battle Demo",
     "com.FictionStudio.SingTogether" : "Sing Together",
     "com.TRC.Atlas" : "The Atlas Mystery - A VR Puzzle Game",
     "com.initiumStudio.Offroad" : "Offroad",
@@ -592,12 +597,23 @@
 # PicoLab Games
 #
 #
+    "net.worldofvr.bibb.mikavrcampus" : "MIKA VR Campus",
+    "com.video.player" : "VR Player",
+    "com.s8l.pico.vst" : "VR Speech Trainer Lab",
+    "com.R3DT.XREASY" : "XR-EASY: Your Gateway to Immersive Dream Spaces",
+    "com.holoride.Voyager" : "holoride",
+    "com.overay.overaystudio" : "OVERAY STUDIO beta",
+    "app.sophia.Arcademy" : "Arcademy",
+    "com.golinelli.live" : "Golinelli LiVE",
+    "com.komastudios.junglechase" : "Jungle Chase | holoride",
+    "app.SophiaTechnologies.DigitalCampus_pico_v3" : "Digital Campus",
+    "com.SGEntertec.BountyCity" : "Bounty City: 3 - Way Battle",
     "com.xspacesvr.vr" : "xSpaces VR",
     "com.DEnM.Metaenga" : "Metaenga - XR Training Platform",
     "com.And7Limited.HitstreamDemo" : "Hitstream Demo",
     "tech.belivr.Karga" : "Karga",
     "com.thirdverse.xtrapol8" : "X8",
-    "com.pvr.robmembor" : "Robmembor",
+    "com.pvr.robmembor" : "Robmembor Demo",
     "work.glue" : "Glue",
     "com.Polygames.AirHockeyVr" : "Air Hockey VR",
     "com.iscom.VRWonderland" : "VR Wonderland",
