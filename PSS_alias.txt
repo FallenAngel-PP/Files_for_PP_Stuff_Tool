@@ -103,6 +103,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.skippy.flyvrx.heli.attack.pico" : "FlyVRX - Military Gunship Helicopter War",
+    "com.skippy.boxing.punchvrx.pico" : "PunchVRX - Boxing Game & Fighting Game",
+    "com.games80085.TTM" : "Touch to Match",
     "com.pvr.robmembor_release" : "Robmembor",
     "motovrx.bike.racing.game.pico" : "Moto VRX",
     "com.s8l.vst" : "VR Speech Trainer",
@@ -597,6 +600,8 @@
 # PicoLab Games
 #
 #
+    "com.KDNM.Pool4D" : "POOL 4D Demo",
+    "com.dayholi.vrplayer" : "Dayholi",
     "net.worldofvr.bibb.mikavrcampus" : "MIKA VR Campus",
     "com.video.player" : "VR Player",
     "com.s8l.pico.vst" : "VR Speech Trainer Lab",
