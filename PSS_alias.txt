@@ -66,7 +66,6 @@
 # Not on Global Pico Store Apps
 #
 #
-    "com.CrystalApps.PuzzleAdventure" : "Puzzle Adventure",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
     "com.Overrungames.Arcaxer" : "Arcaxer",
@@ -103,6 +102,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.CrystalApps.PuzzleAdventure" : "Puzzle Adventure",
     "com.skippy.flyvrx.heli.attack.pico" : "FlyVRX - Military Gunship Helicopter War",
     "com.skippy.boxing.punchvrx.pico" : "PunchVRX - Boxing Game & Fighting Game",
     "com.games80085.TTM" : "Touch to Match",
