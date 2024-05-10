@@ -102,6 +102,10 @@
 # Global Pico Store Apps
 #
 #
+    "com.DarkCurry.UndeadCitadel" : "Undead Citadel",
+    "com.tecworks.terrorcavevr" : "Terror Cave VR",
+    "com.abstron.nine.ball.pool.vrx_pico" : "9 Ball Pool VRX",
+    "com.CombatWaffleStudios.GhostsOfTabor" : "Ghosts of Tabor",
     "com.CrystalApps.PuzzleAdventure" : "Puzzle Adventure",
     "com.skippy.flyvrx.heli.attack.pico" : "FlyVRX - Military Gunship Helicopter War",
     "com.skippy.boxing.punchvrx.pico" : "PunchVRX - Boxing Game & Fighting Game",
