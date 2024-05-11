@@ -102,6 +102,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.tecworks.waterextreme" : "Water Ride Extreme",
+    "com.tecworks.waterexpress" : "Water Ride Express",
     "com.DarkCurry.UndeadCitadel" : "Undead Citadel",
     "com.tecworks.terrorcavevr" : "Terror Cave VR",
     "com.abstron.nine.ball.pool.vrx_pico" : "9 Ball Pool VRX",
