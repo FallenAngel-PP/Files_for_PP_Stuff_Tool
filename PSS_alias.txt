@@ -102,6 +102,12 @@
 # Global Pico Store Apps
 #
 #
+    "com.mechabit.mechaleague" : "MechaLeague",
+    "com.hbx.Arrow2" : "Arrow Song 2",
+    "com.KDNM.HandsPlayground" : "Hands Playground",
+    "com.thunder.gladiator.fighting.game.pico" : "Thunder Gladiator - Fighting Game",
+    "com.exp360.featurespotlight.viewer" : "EXP360 Feature Spotlight",
+    "com.VinciGamesInc.BlacktopHoops_Beta" : "Blacktop Hoops",
     "com.tecworks.waterextreme" : "Water Ride Extreme",
     "com.tecworks.waterexpress" : "Water Ride Express",
     "com.DarkCurry.UndeadCitadel" : "Undead Citadel",
@@ -606,6 +612,7 @@
 # PicoLab Games
 #
 #
+    "com.XRSweat.YogaVR" : "Yoga",
     "com.KDNM.Pool4D" : "POOL 4D Demo",
     "com.dayholi.vrplayer" : "Dayholi",
     "net.worldofvr.bibb.mikavrcampus" : "MIKA VR Campus",
