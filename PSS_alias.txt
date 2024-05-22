@@ -103,6 +103,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.BearHammerGamesLTD.VenturesGauntlet" : "Venture's Gauntlet",
     "com.mechabit.mechaleague" : "MechaLeague",
     "com.hbx.Arrow2" : "Arrow Song 2",
     "com.KDNM.HandsPlayground" : "Hands Playground",
@@ -613,6 +614,7 @@
 # PicoLab Games
 #
 #
+    "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
     "com.XRSweat.YogaVR" : "Yoga",
     "com.KDNM.Pool4D" : "POOL 4D Demo",
     "com.dayholi.vrplayer" : "Dayholi",
