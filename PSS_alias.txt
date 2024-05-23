@@ -103,6 +103,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.Kandao.KandaoXR" : "Kandao XR",
+    "com.gorillavr.pico.triptovr" : "Tripto VR",
     "com.BearHammerGamesLTD.VenturesGauntlet" : "Venture's Gauntlet",
     "com.mechabit.mechaleague" : "MechaLeague",
     "com.hbx.Arrow2" : "Arrow Song 2",
