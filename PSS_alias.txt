@@ -103,6 +103,7 @@
 # Global Pico Store Apps
 #
 #
+    "tech.belivr.KargaVR" : "Karga VR",
     "com.Kandao.KandaoXR" : "Kandao XR",
     "com.gorillavr.pico.triptovr" : "Tripto VR",
     "com.BearHammerGamesLTD.VenturesGauntlet" : "Venture's Gauntlet",
@@ -616,6 +617,7 @@
 # PicoLab Games
 #
 #
+    "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
     "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
     "com.XRSweat.YogaVR" : "Yoga",
     "com.KDNM.Pool4D" : "POOL 4D Demo",
