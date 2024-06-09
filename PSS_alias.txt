@@ -103,6 +103,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.mozaweb.cadaveranatomy" : "CadaVR Anatomy",
     "tech.belivr.KargaVR" : "Karga VR",
     "com.Kandao.KandaoXR" : "Kandao XR",
     "com.gorillavr.pico.triptovr" : "Tripto VR",
