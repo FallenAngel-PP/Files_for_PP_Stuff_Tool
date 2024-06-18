@@ -16,6 +16,8 @@
 # Pico Indie Games
 #
 #
+    "com.VIRTUALVISION.Visyon" : "Antser VR",
+    "com.drbeef.selacovr" : "Selaco VR",
     "com.drbeef.questzdoom" : "QuestZDoom",
     "com.drbeef.beefraiderxr" : "Beef Raider XR",
     "ru.maximoff.apktool" : "Apktool M",
@@ -103,6 +105,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.at.city.bus.driver.simulation.pico" : "City Bus Simulator - Bus Driving Games",
+    "com.mozalearn.mozaik3dvr" : "Mozaik 3D",
     "com.mozaweb.cadaveranatomy" : "CadaVR Anatomy",
     "tech.belivr.KargaVR" : "Karga VR",
     "com.Kandao.KandaoXR" : "Kandao XR",
