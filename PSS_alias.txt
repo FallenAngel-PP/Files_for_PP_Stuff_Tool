@@ -68,6 +68,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.tulip.port.crane.simulator.pico" : "Port Crane",
     "com.bjtu.badmintonSim" : "Badminton Battle",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
@@ -105,6 +106,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.perform_vr.fitimmersion" : "Fit Immersion",
+    "com.team17.killerfrequency" : "Killer Frequency",
+    "com.ZOSUStudiosLLC.ZOSUZoo" : "ZOSU Zoo",
     "com.at.city.bus.driver.simulation.pico" : "City Bus Simulator - Bus Driving Games",
     "com.mozalearn.mozaik3dvr" : "Mozaik 3D",
     "com.mozaweb.cadaveranatomy" : "CadaVR Anatomy",
