@@ -11,6 +11,8 @@
 #
 #
     "com.beatgames.beatsaber" : "Beat Saber",
+    "com.beatgames.beatpaber" : "Beat Saber +",
+    "com.NewFolderGames.IAmCat" : "Iam Cat",
 # 
 #
 # Pico Indie Games
@@ -68,7 +70,6 @@
 # Not on Global Pico Store Apps
 #
 #
-    "com.tulip.port.crane.simulator.pico" : "Port Crane",
     "com.bjtu.badmintonSim" : "Badminton Battle",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
@@ -106,6 +107,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.tulip.port.crane.simulator.pico" : "Port Crane",
     "com.perform_vr.fitimmersion" : "Fit Immersion",
     "com.team17.killerfrequency" : "Killer Frequency",
     "com.ZOSUStudiosLLC.ZOSUZoo" : "ZOSU Zoo",
