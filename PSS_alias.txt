@@ -107,6 +107,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.rooom.rooomfx" : "rooom",
+    "com.picoxr.webapp.io_heyvr" : "heyVR.io",
     "com.tulip.port.crane.simulator.pico" : "Port Crane",
     "com.perform_vr.fitimmersion" : "Fit Immersion",
     "com.team17.killerfrequency" : "Killer Frequency",
