@@ -107,6 +107,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.codenrama.dsd" : "Deep Space Dilemmas",
+    "com.AlterEyes.BigShots" : "Big Shots",
     "com.rooom.rooomfx" : "rooom",
     "com.picoxr.webapp.io_heyvr" : "heyVR.io",
     "com.tulip.port.crane.simulator.pico" : "Port Crane",
