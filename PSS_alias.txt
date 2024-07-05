@@ -70,6 +70,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.fantawildgames.RG" : "Rhythm Life",
     "com.bjtu.badmintonSim" : "Badminton Battle",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
