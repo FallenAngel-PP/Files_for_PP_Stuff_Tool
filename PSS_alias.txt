@@ -108,6 +108,12 @@
 # Global Pico Store Apps
 #
 #
+    "com.mazetheory.infiniteinside" : "Infinite Inside",
+    "com.bigsugar.tigerblade" : "Tiger Blade",
+    "com.vrmonkey.macacovr" : "Sky Climb",
+    "jp.co.ddarts.HatchPotVR" : "Hatch-Pot Indies",
+    "com.tower.crane.simulator.tulipapps.pico" : "Tower Crane Simulator",
+    "com.TulipApps.HighwayPoliceChase.pico" : "Police Chase",
     "com.codenrama.dsd" : "Deep Space Dilemmas",
     "com.AlterEyes.BigShots" : "Big Shots",
     "com.rooom.rooomfx" : "rooom",
@@ -633,6 +639,7 @@
 # PicoLab Games
 #
 #
+    "com.vengine.Pickleball" : "Pickleball",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
     "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
     "com.XRSweat.YogaVR" : "Yoga",
