@@ -108,6 +108,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.vengine.Pickleball" : "Pickleball",
     "com.mazetheory.infiniteinside" : "Infinite Inside",
     "com.bigsugar.tigerblade" : "Tiger Blade",
     "com.vrmonkey.macacovr" : "Sky Climb",
@@ -639,7 +640,6 @@
 # PicoLab Games
 #
 #
-    "com.vengine.Pickleball" : "Pickleball",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
     "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
     "com.XRSweat.YogaVR" : "Yoga",
