@@ -640,6 +640,7 @@
 # PicoLab Games
 #
 #
+    "com.DefaultCompany.VRHomeEditorPico" : "VRHome Editor",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
     "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
     "com.XRSweat.YogaVR" : "Yoga",
