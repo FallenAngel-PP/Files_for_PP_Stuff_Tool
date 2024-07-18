@@ -108,6 +108,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.OsOs.TinyArchers" : "Tiny Archers",
+    "Rockhopper.MusicalRange.Alpha" : "Musical Range",
     "com.vengine.Pickleball" : "Pickleball",
     "com.mazetheory.infiniteinside" : "Infinite Inside",
     "com.bigsugar.tigerblade" : "Tiger Blade",
