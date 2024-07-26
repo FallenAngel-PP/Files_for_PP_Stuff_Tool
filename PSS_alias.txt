@@ -108,6 +108,11 @@
 # Global Pico Store Apps
 #
 #
+    "com.Voolgi.SuchArt" : "SuchArt: Genius Artist Simulator",
+    "com.teche.picovrplayer" : "VR BO BO",
+    "com.BeardedNinjaGames.VRInteractionFramework" : "Boxed Fortress: Defend the Throne",
+    "com.tulip.forklifter.pico" : "Fork Lifter Simulator",
+    "com.thinkdigital.tdxr.farmvr" : "Farm VR",
     "com.OsOs.TinyArchers" : "Tiny Archers",
     "Rockhopper.MusicalRange.Alpha" : "Musical Range",
     "com.vengine.Pickleball" : "Pickleball",
