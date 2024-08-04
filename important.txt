@@ -1,0 +1,3 @@
+Global Pico 3/4 Firmware 5.9.8 is out. We don't recommend to update when you are on 5.8.2 or lower, but when you are on 5.9.X, you can update. It is shipped with matrix 5.8.2, so it is as safe as OS 5.9.2
+
+(This message will appear for a few days)
