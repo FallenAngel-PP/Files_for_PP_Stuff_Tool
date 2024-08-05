@@ -10,6 +10,7 @@
 # Oculus Quest Ports
 #
 #
+    "studio.NewFolderGames.IAmSecurity" : "I am Security",
     "com.StressLevelZero.BONELAB" : "Bonelab",
     "com.beatgames.beatsaber" : "Beat Saber",
     "com.beatgames.beatpaber" : "Beat Saber +",
