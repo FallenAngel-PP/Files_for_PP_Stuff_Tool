@@ -10,6 +10,7 @@
 # Oculus Quest Ports
 #
 #
+    "com.turbobutton.fp2" : "Floor Plan II",
     "studio.NewFolderGames.IAmSecurity" : "I am Security",
     "com.StressLevelZero.BONELAB" : "Bonelab",
     "com.beatgames.beatsaber" : "Beat Saber",
@@ -110,6 +111,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.NorthernAsylum.TaskTwist.android" : "Task Twist",
+    "com.purestudio.pico.vr.ball.lines" : "Ball Lines",
     "com.Voolgi.SuchArt" : "SuchArt: Genius Artist Simulator",
     "com.teche.picovrplayer" : "VR BO BO",
     "com.BeardedNinjaGames.VRInteractionFramework" : "Boxed Fortress: Defend the Throne",
