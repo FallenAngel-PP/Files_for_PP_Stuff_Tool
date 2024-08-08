@@ -111,6 +111,10 @@
 # Global Pico Store Apps
 #
 #
+    "com.echoverse.studios.vr.pico.pirate.frenzy" : "Pirate Frenzy",
+    "com.qjtc.zhiciqinglv" : "The Journey of a legendary Landscape Painting",
+    "com.tecworks.waterfalls" : "Relaxing Waterfalls",
+    "com.polyraw.Artax" : "Artax",
     "com.NorthernAsylum.TaskTwist.android" : "Task Twist",
     "com.purestudio.pico.vr.ball.lines" : "Ball Lines",
     "com.Voolgi.SuchArt" : "SuchArt: Genius Artist Simulator",
