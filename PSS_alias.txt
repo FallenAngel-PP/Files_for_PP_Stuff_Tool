@@ -10,6 +10,7 @@
 # Oculus Quest Ports
 #
 #
+    "com.Aldin.WotW" : "Waltz of the Wizard",
     "com.badflyinteractive.deadeffect2" : "Dead Effect 2",
     "com.turbobutton.fp2" : "Floor Plan II",
     "studio.NewFolderGames.IAmSecurity" : "I am Security",
@@ -658,6 +659,7 @@
 # PicoLab Games
 #
 #
+    "com.Evaveo.Menuiserie" : "MFR Menuiserie",
     "com.DefaultCompany.VRHomeEditorPico" : "VRHome Editor",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
     "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
