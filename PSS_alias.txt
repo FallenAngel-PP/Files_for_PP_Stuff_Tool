@@ -10,6 +10,9 @@
 # Oculus Quest Ports
 #
 #
+    "com.TenderClaws.StrangerThingsVR" : "Stranger Things VR",
+    "com.playful.LuckysTale" : "Lucky's Tale",
+    "com.activ8.kizunaaivr" : "Kizuna AI",
     "com.Aldin.WotW" : "Waltz of the Wizard",
     "com.badflyinteractive.deadeffect2" : "Dead Effect 2",
     "com.turbobutton.fp2" : "Floor Plan II",
