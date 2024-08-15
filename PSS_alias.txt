@@ -116,6 +116,15 @@
 # Global Pico Store Apps
 #
 #
+    "com.anananasstudio.liminalphase" : "Liminal Phase",
+    "com.ovrhoame.hoame" : "Hoame",
+    "al.quest.pickleball.forfunlabs" : "Pickleball Pro",
+    "com.octav.riadvr" : "Riad VR",
+    "com.JOYWAY.JoyWayPrototype3" : "STACK",
+    "com.UnsuiGo.BlockBooster" : "Block Booster",
+    "com.abstron.ninja.samurai.pico" : "Samurai Ninja Clash",
+    "com.rsquaregames.VRCricketFrenzy" : "Cricket Frenzy",
+    "com.UnsuiGo.SnakeRoom" : "Snake Room",
     "com.JoyWay.StrideStory" : "Stride Fates",
     "com.echoverse.studios.vr.pico.pirate.frenzy" : "Pirate Frenzy",
     "com.qjtc.zhiciqinglv" : "Poetic Dance",
