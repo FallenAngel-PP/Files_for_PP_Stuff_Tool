@@ -117,6 +117,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.BigBraneStudios.SushiBen" : "Sushi Ben",
+    "com.terribleposture.MGSVRPicoGlobal" : "Mothergunship: Forge",
     "com.anananasstudio.liminalphase" : "Liminal Phase",
     "com.ovrhoame.hoame" : "Hoame",
     "al.quest.pickleball.forfunlabs" : "Pickleball Pro",
