@@ -117,11 +117,14 @@
 # Global Pico Store Apps
 #
 #
+    "com.VFX4VR.PlagueofAthens" : "Plaque of Athens",
+    "com.VRxpert.Fear2Drive.Pico" : "VRFH - Fear 2 Drive",
+    "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
     "com.BigBraneStudios.SushiBen" : "Sushi Ben",
     "com.terribleposture.MGSVRPicoGlobal" : "Mothergunship: Forge",
     "com.anananasstudio.liminalphase" : "Liminal Phase",
     "com.ovrhoame.hoame" : "Hoame",
-    "al.quest.pickleball.forfunlabs" : "Pickleball Pro",
+    "al.quest.pickleball.forfunlabs" : "Eleven Pickleball",
     "com.octav.riadvr" : "Riad VR",
     "com.JOYWAY.JoyWayPrototype3" : "STACK",
     "com.UnsuiGo.BlockBooster" : "Block Booster",
