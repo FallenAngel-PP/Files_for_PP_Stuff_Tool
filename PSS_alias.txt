@@ -78,6 +78,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.ThreeBody" : "Three Body",
     "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
     "com.fantawildgames.RG" : "Rhythm Life",
     "com.bjtu.badmintonSim" : "Badminton Battle",
@@ -117,6 +118,12 @@
 # Global Pico Store Apps
 #
 #
+    "com.ecoforce.studio.vr.island.protector" : "Island Protector",
+    "com.ZOSUStudiosLLC.GallerySmasher" : "Gallery Smasher",
+    "com.yobike.papaye" : "Papaye Bang Bang VR",
+    "com.zerogravity.vr.pico.siege.of.the.tropics" : "Siege of the Tropics",
+    "com.warfront.studios.defend.gainst.the.pirates" : "Defend Against The Pirates",
+    "com.IMVE.TheFinders" : "The Finders",
     "com.VFX4VR.PlagueofAthens" : "Plaque of Athens",
     "com.VRxpert.Fear2Drive.Pico" : "VRFH - Fear 2 Drive",
     "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
