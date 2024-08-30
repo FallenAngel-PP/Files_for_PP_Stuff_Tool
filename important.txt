@@ -1,3 +1,7 @@
 Sorry, we got banned again. So it seems Discord isn't a safe place for us at the moment. Let's start from scratch on Revolt, a nice Discord altetnative. We will see us there:
 
 https://app.revolt.chat/invite/Pae6SJgW
+
+!!! IMPORTANT !!!
+
+DON'T Update to 5.11.X, this will break your games. It is tested by PicoLAND. We don't know when or if a workaround will be available
