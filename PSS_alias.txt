@@ -78,6 +78,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.Miyagames.FW" : "Floating World",
     "com.ThreeBody" : "Three Body",
     "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
     "com.fantawildgames.RG" : "Rhythm Life",
@@ -118,6 +119,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.rsquaregames.VRCricketFrenzyUltimate" : "Cricket Frenzy Ultimate",
+    "com.iscomXR.VRShootingRanges" : "VR Shooting Ranges",
+    "com.YetUnknown.ToyMonsters" : "Toy Monsters",
     "com.ecoforce.studio.vr.island.protector" : "Island Protector",
     "com.ZOSUStudiosLLC.GallerySmasher" : "Gallery Smasher",
     "com.yobike.papaye" : "Papaye Bang Bang VR",
