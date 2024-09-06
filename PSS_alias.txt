@@ -26,6 +26,7 @@
 # Pico Indie Games
 #
 #
+    "com.SiberianMakeshift.SEVER" : "SEVER",
     "com.VIRTUALVISION.Visyon" : "Antser VR",
     "com.drbeef.selacovr" : "Selaco VR",
     "com.drbeef.questzdoom" : "QuestZDoom",
