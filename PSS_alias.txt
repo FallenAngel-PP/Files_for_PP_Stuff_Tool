@@ -120,6 +120,14 @@
 # Global Pico Store Apps
 #
 #
+    "com.Aoga.RhythmPlanet" : "Rhythm Planet",
+    "com.Linkup.Adventure" : "Sports Adventure",
+    "com.exkee.fitness" : "Lets Get Fit VR",
+    "com.qiyou.TempoClub" : "Tempo Club",
+    "com.LinkUP.WingChun" : "WingChun",
+    "com.RunByCoffee.Goalienator" : "Goalienator",
+    "com.SteelWool.HelpWanted2" : "Five Nights at Freddy's: Help Wanted 2",
+    "com.rebuffreality.dancedash.pico" : "Dance Dash",
     "com.rsquaregames.VRCricketFrenzyUltimate" : "Cricket Frenzy Ultimate",
     "com.iscomXR.VRShootingRanges" : "VR Shooting Ranges",
     "com.YetUnknown.ToyMonsters" : "Toy Monsters",
