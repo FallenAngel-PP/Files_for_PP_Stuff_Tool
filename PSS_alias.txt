@@ -120,6 +120,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.ss.android.ttvr.global.pvac.interdrama.yuzhuang" : "Spatial Traveller",
+    "com.dreamdev.deathhorizonmixedreality.pico" : "Death Horizon - MR",
+    "com.vimagineo.chernobylagain" : "Chernobyl Again",
     "com.Aoga.RhythmPlanet" : "Rhythm Planet",
     "com.Linkup.Adventure" : "Sports Adventure",
     "com.exkee.fitness" : "Lets Get Fit VR",
