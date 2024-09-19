@@ -120,6 +120,11 @@
 # Global Pico Store Apps
 #
 #
+    "com.PeopleCanFly.Thunder" : "Bulletstorm",
+    "com.BrainzImmersive.Darkening" : "Darkening",
+    "com.tkorp.convrgence" : "Nature 360",
+    "com.CliqueGames.MonkeyDooDoo" : "Monkey Doo",
+    "com.smtrandom.toytrain" : "Toy Trains",
     "com.ss.android.ttvr.global.pvac.interdrama.yuzhuang" : "Spatial Traveller",
     "com.dreamdev.deathhorizonmixedreality.pico" : "Death Horizon - MR",
     "com.vimagineo.chernobylagain" : "Chernobyl Again",
