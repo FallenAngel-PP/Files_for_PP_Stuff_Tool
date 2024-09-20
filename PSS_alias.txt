@@ -120,6 +120,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.foot.pool" : "Foot Pool",
     "com.PeopleCanFly.Thunder" : "Bulletstorm",
     "com.BrainzImmersive.Darkening" : "Darkening",
     "com.tkorp.convrgence" : "Nature 360",
