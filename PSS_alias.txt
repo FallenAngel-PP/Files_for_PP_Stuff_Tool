@@ -120,6 +120,10 @@
 # Global Pico Store Apps
 #
 #
+    "com.AnotheReality.TennisLeagueVR_Pico_INTL" : "Tennis League VR",
+    "io.dreamgrid.archer" : "Lightning Archer",
+    "com.forwardgame.stackaarjj" : "STACKAAR Curcuit",
+    "com.OB.SwordTrip" : "Sword Trip",
     "com.foot.pool" : "Foot Pool",
     "com.PeopleCanFly.Thunder" : "Bulletstorm",
     "com.BrainzImmersive.Darkening" : "Darkening",
