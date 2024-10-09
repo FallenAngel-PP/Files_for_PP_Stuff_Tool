@@ -90,6 +90,8 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.LinkUP.AssemblyBattle" : "Assembly Battle",
+    "com.OB.SwordTrip" : "Sword Trip",
     "com.Miyagames.FW" : "Floating World",
     "com.ThreeBody" : "Three Body",
     "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
