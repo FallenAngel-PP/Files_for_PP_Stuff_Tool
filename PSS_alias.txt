@@ -133,6 +133,11 @@
 # Global Pico Store Apps
 #
 #
+    "com.LinkUP.AssemblyBattle" : "Assembly Battle",
+    "com.ippogames.talesofsintravortexPico" : "Tales of Sintra",
+    "com.petricore.capsulecritters" : "Capsule Critters",
+    "com.iscomXR.VRGym" : "VRGym",
+    "com.ToastVR.MaxMustard" : "Max Mustard",
     "com.onehamsa.underdogs" : "UNDERDOGS",
     "com.CortopiaStudios.Spectre" : "Escaping Wonderland",
     "com.AnotheReality.TennisLeagueVR_Pico_INTL" : "Tennis League VR",
