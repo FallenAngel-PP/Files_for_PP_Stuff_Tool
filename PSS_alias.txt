@@ -133,6 +133,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.vertigogames.azs1hdint" : "Arizona Sunshine 1 Remake", 
+    "com.abelanavr.stellar.simulator.standalone" : "Stellar Simulator",
+    "com.VirtualDor.NeotrieVR" : "NeoTrie VR",
     "com.LinkUP.AssemblyBattle" : "Assembly Battle",
     "com.ippogames.talesofsintravortexPico" : "Tales of Sintra",
     "com.petricore.capsulecritters" : "Capsule Critters",
