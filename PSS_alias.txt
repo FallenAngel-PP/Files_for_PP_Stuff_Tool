@@ -10,6 +10,7 @@
 # Oculus Quest Ports
 #
 #
+    "com.ubisoft.justdancevr" : "Just Dance VR",
     "com.camouflaj.salmon" : "Iron Man VR",
     "com.TwistedBarrelGames.TacticalAssaultVR" : "Tactical Assault",
     "com.FuturLab.PowerWashSimulator" : "Powerwash Simulator",
@@ -90,9 +91,6 @@
 # Not on Global Pico Store Apps
 #
 #
-    "com.LinkUP.AssemblyBattle" : "Assembly Battle",
-    "com.OB.SwordTrip" : "Sword Trip",
-    "com.Miyagames.FW" : "Floating World",
     "com.ThreeBody" : "Three Body",
     "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
     "com.fantawildgames.RG" : "Rhythm Life",
@@ -133,6 +131,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.Miyagames.FW" : "Floating World",
     "com.vertigogames.azs1hdint" : "Arizona Sunshine 1 Remake", 
     "com.abelanavr.stellar.simulator.standalone" : "Stellar Simulator",
     "com.VirtualDor.NeotrieVR" : "NeoTrie VR",
@@ -733,6 +732,7 @@
 # PicoLab Games
 #
 #
+    "com.IngeniousStudios.ShopenkraftsMagicGoods" : "Shopenkrafts Magic Goods",
     "com.Evaveo.Menuiserie" : "MFR Menuiserie",
     "com.DefaultCompany.VRHomeEditorPico" : "VRHome Editor",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
