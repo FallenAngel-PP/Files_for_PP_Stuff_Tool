@@ -10,6 +10,9 @@
 # Oculus Quest Ports
 #
 #
+    "com.thebinarymill.intoblack" : "Into Black",
+    "com.schellgames.ieytd3" : "I Expect You To Die 3",
+    "com.schellgames.ieytd2" : "I Expect You To Die 2",
     "com.ubisoft.justdancevr" : "Just Dance VR",
     "com.camouflaj.salmon" : "Iron Man VR",
     "com.TwistedBarrelGames.TacticalAssaultVR" : "Tactical Assault",
