@@ -134,6 +134,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.PeanutButton.Retropolis2nsg" : "Retropolis 2 - Never Say Goodbye",
+    "com.doubleme.vivarium" : "Vivarium",
+    "education.exr.app" : "ExR",
     "com.Miyagames.FW" : "Floating World",
     "com.vertigogames.azs1hdint" : "Arizona Sunshine 1 Remake", 
     "com.abelanavr.stellar.simulator.standalone" : "Stellar Simulator",
@@ -735,6 +738,7 @@
 # PicoLab Games
 #
 #
+    "com.Borderless.Borderless" : "Borderless",
     "com.IngeniousStudios.ShopenkraftsMagicGoods" : "Shopenkrafts Magic Goods",
     "com.Evaveo.Menuiserie" : "MFR Menuiserie",
     "com.DefaultCompany.VRHomeEditorPico" : "VRHome Editor",
