@@ -10,6 +10,8 @@
 # Oculus Quest Ports
 #
 #
+    "com.vertigogames.ImpactDevelopment" : "Metro Awakening",
+    "com.camouflaj.manta" : "Batman - Arkham Shadows",
     "com.Ubisoft.ACNexusVR" : "Assassin's Creed Nexus",
     "com.codemasters.gridlegends" : "Grid Legends",
     "com.spl.mercury_vr" : "MudRunner VR",
@@ -139,6 +141,10 @@
 # Global Pico Store Apps
 #
 #
+    "com.verseus.xfit" : "xFit - Powered by World of Dance",
+    "io.doublejack.maestro" : "Maestro",
+    "com.MediaUp.LaserRoom" : "Laser Room",
+    "com.XenyLab.NautilusPicoStore" : "Xenylab",
     "com.iscomXR.VRArchery" : "VR Archery",
     "com.Zero_Space.DroneSimulatorVR" : "Drone Simulator",
     "com.keycapgames.coffeequest" : "Coffee Quest",
