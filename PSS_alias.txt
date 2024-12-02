@@ -141,6 +141,11 @@
 # Global Pico Store Apps
 #
 #
+    "com.thinglink.vr.unity.thinglink" : "ThingLink XR",
+    "com.NBS.RogueAscent" : "Rogue Ascent",
+    "com.nosebleed.ArcadeParadiseVR" : "Arcade Paradise",
+    "com.Anotherway.UnpluggedVR" : "Unplugged: Air Guitar",
+    "com.arealm.RRoversea" : "Real Realm",
     "com.verseus.xfit" : "xFit - Powered by World of Dance",
     "io.doublejack.maestro" : "Maestro",
     "com.MediaUp.LaserRoom" : "Laser Room",
