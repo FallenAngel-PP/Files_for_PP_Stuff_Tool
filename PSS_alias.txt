@@ -141,6 +141,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.dreamdev.dhcyberfusion.pico" : "Death Horizon: Cyberfusion",
+    "com.NPSoftware.VisitMadeira" : "Visit Madeira",
+    "com.Cortopia.Wands" : "Wands",
     "com.thinglink.vr.unity.thinglink" : "ThingLink XR",
     "com.NBS.RogueAscent" : "Rogue Ascent",
     "com.nosebleed.ArcadeParadiseVR" : "Arcade Paradise",
