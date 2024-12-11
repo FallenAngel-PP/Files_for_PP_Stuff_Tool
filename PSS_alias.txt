@@ -141,6 +141,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.FoggyBox.Startenders" : "Startenders: Intergalactic Bartending",
     "com.dreamdev.dhcyberfusion.pico" : "Death Horizon: Cyberfusion",
     "com.NPSoftware.VisitMadeira" : "Visit Madeira",
     "com.Cortopia.Wands" : "Wands",
