@@ -141,6 +141,12 @@
 # Global Pico Store Apps
 #
 #
+    "com.overlat.sharjahamm" : "Sharjah Archaeology Metaverse Center",
+    "com.XuKing.ZombieSurvivor" : "Zombie Survivor",
+    "com.NautilusVR.VSMReciclaje" : "Recycling Automotive",
+    "com.NautilusVR.VSMEPIS" : "OHS Automotive",
+    "com.ftales.vridersbk" : "VRider SBK",
+    "com.odders.lesmillsdance" : "Les Mills XR Dance",
     "com.FoggyBox.Startenders" : "Startenders: Intergalactic Bartending",
     "com.dreamdev.dhcyberfusion.pico" : "Death Horizon: Cyberfusion",
     "com.NPSoftware.VisitMadeira" : "Visit Madeira",
