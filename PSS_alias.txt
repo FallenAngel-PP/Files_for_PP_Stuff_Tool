@@ -10,6 +10,7 @@
 # Oculus Quest Ports
 #
 #
+    "com.SDI.BHM" : "Skydance's BEHEMOTH",
     "com.vertigogames.ImpactDevelopment" : "Metro Awakening",
     "com.camouflaj.manta" : "Batman - Arkham Shadows",
     "com.Ubisoft.ACNexusVR" : "Assassin's Creed Nexus",
