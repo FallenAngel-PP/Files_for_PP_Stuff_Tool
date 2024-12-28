@@ -142,6 +142,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.Ikimasho.BeingAnAstronaut" : "Being an Astronaut",
     "com.overlat.sharjahamm" : "Sharjah Archaeology Metaverse Center",
     "com.XuKing.ZombieSurvivor" : "Zombie Survivor",
     "com.NautilusVR.VSMReciclaje" : "Recycling Automotive",
