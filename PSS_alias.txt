@@ -10,6 +10,15 @@
 # Oculus Quest Ports
 #
 #
+    "com.hg.TMVR" : "Townsmen VR",
+    "studio.NewFolderGames.TitansClinic" : "Titans Clinic",
+    "com.lab42games.slayer" : "Metal Hellsinger",
+    "com.CreaTeam.Sclerosis" : "Sclerosis - The Dark Descent",
+    "com.mandegames.NightClubSimulater" : "Nightclub Simulator",
+    "com.thunderful.legobricktales" : "Lego Bricktales",
+    "com.turbobutton.floorplanremaster" : "Floor Plan",
+    "com.Doborog.CloneDroneVR" : "Clone Drone in the Hyperdome",
+    "com.NeatCorporation.BudgetCutsUltimate" : "Budget Cuts Ultimate",
     "com.SDI.BHM" : "Skydance's BEHEMOTH",
     "com.vertigogames.ImpactDevelopment" : "Metro Awakening",
     "com.camouflaj.manta" : "Batman - Arkham Shadows",
@@ -142,6 +151,7 @@
 # Global Pico Store Apps
 #
 #
+    "com.swearl.playa" : "PLAY'A VR Video Player",
     "com.Ikimasho.BeingAnAstronaut" : "Being an Astronaut",
     "com.overlat.sharjahamm" : "Sharjah Archaeology Metaverse Center",
     "com.XuKing.ZombieSurvivor" : "Zombie Survivor",
