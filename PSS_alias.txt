@@ -10,6 +10,7 @@
 # Oculus Quest Ports
 #
 #
+    "com.Ace.Ace" : "Ace XR",
     "com.hg.TMVR" : "Townsmen VR",
     "studio.NewFolderGames.TitansClinic" : "Titans Clinic",
     "com.lab42games.slayer" : "Metal Hellsinger",
@@ -151,6 +152,12 @@
 # Global Pico Store Apps
 #
 #
+    "com.Siedan.TableTennisTrainingSim" : "Table Tennis Training Simulator",
+    "com.moonvr.moonportal" : "Moon Portal",
+    "com.ar2vr.AR2VR" : "AR2VR",
+    "com.NPSoftware.VisitFaroeIslands" : "Visit Faroe Islands",
+    "online.yshh.fitgal" : "Fitness GAL",
+    "com.iscomXR.VRFight" : "VRFight",
     "com.swearl.playa" : "PLAY'A VR Video Player",
     "com.Ikimasho.BeingAnAstronaut" : "Being an Astronaut",
     "com.overlat.sharjahamm" : "Sharjah Archaeology Metaverse Center",
