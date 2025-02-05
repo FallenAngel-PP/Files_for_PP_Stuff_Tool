@@ -152,6 +152,9 @@
 # Global Pico Store Apps
 #
 #
+    "com.PubTest.PubTest" : "Drunkn Bar Fight 2",
+    "com.adaspace.lunartask" : "Lunar Trek",
+    "com.BitGolem.DagonCompleteEdition" : "Dagon: by H.P. Lovecraft",
     "com.Siedan.TableTennisTrainingSim" : "Table Tennis Training Simulator",
     "com.moonvr.moonportal" : "Moon Portal",
     "com.ar2vr.AR2VR" : "AR2VR",
