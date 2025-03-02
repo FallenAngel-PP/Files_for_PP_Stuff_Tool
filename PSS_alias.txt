@@ -114,6 +114,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.KevinSheep.WayfinderToySoldier" : "Wayfinder - Toy Soldier",
     "com.ThreeBody" : "Three Body",
     "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
     "com.fantawildgames.RG" : "Rhythm Life",
