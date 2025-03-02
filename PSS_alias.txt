@@ -161,7 +161,7 @@
     "com.LingJieQiLv.YanHua" : "Fireworks",
     "com.RustyPipesGames.AshenPG" : "Ashen Arrows",
     "com.nvidia.geforcenow" : "Geforce Now",
-    "DoGames.RogueStarGun" : "Rogue Stargun",
+    "com.DoGames.RogueStarGun" : "Rogue Stargun",
     "com.MyronSoftware.UnderworldOverseer" : "Underworld Overseer",
     "com.VRxpert.Fear2GoShoppingMall.Pico" : "VRFH - Fear2GoShoppingMall",
     "com.PubTest.PubTest" : "Drunkn Bar Fight 2",
