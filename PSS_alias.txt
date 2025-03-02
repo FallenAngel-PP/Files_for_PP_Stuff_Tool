@@ -10,6 +10,7 @@
 # Oculus Quest Ports
 #
 #
+    "com.com.spectralgames.Medieval" : "Medieval Dynasty",
     "com.Ace.Ace" : "Ace XR",
     "com.hg.TMVR" : "Townsmen VR",
     "studio.NewFolderGames.TitansClinic" : "Titans Clinic",
@@ -58,6 +59,7 @@
 # Pico Indie Games
 #
 #
+    "com.drbeef.doom3quest" : "Doom 3 Quest",
     "com.qcxr.qcxr" : "QuestCraft",
     "com.SiberianMakeshift.SEVER" : "SEVER",
     "com.VIRTUALVISION.Visyon" : "Antser VR",
@@ -152,8 +154,17 @@
 # Global Pico Store Apps
 #
 #
+    "com.mindQ.STEPVideoplayer" : "STEP",
+    "com.noowanda.discovery2" : "Discovery 2",
+    "com.miracle.dreampuzzle" : "Dream Puzzle",
+    "com.NoxNoctis.DoNotOpenOVRdark" : "OVRDark",
+    "com.LingJieQiLv.YanHua" : "Fireworks",
+    "com.RustyPipesGames.AshenPG" : "Ashen Arrows",
+    "com.nvidia.geforcenow" : "Geforce Now",
+    "DoGames.RogueStarGun" : "Rogue Stargun",
+    "com.MyronSoftware.UnderworldOverseer" : "Underworld Overseer",
+    "com.VRxpert.Fear2GoShoppingMall.Pico" : "VRFH - Fear2GoShoppingMall",
     "com.PubTest.PubTest" : "Drunkn Bar Fight 2",
-    "com.adaspace.lunartask" : "Lunar Trek",
     "com.BitGolem.DagonCompleteEdition" : "Dagon: by H.P. Lovecraft",
     "com.Siedan.TableTennisTrainingSim" : "Table Tennis Training Simulator",
     "com.moonvr.moonportal" : "Moon Portal",
@@ -790,6 +801,9 @@
 # PicoLab Games
 #
 #
+    "com.JunjieXian.GoGoFight" : "GoGo Fight",
+    "com.xprlabs.tbr" : "Taebo Reboot",
+    "com.adaspace.lunartask" : "Lunar Trek",   
     "com.Borderless.Borderless" : "Borderless",
     "com.IngeniousStudios.ShopenkraftsMagicGoods" : "Shopenkrafts Magic Goods",
     "com.Evaveo.Menuiserie" : "MFR Menuiserie",
