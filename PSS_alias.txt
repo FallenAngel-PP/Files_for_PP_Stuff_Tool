@@ -10,6 +10,9 @@
 # Oculus Quest Ports
 #
 #
+    "com.GIANTSSoftware.FarmingSimulatorVR" : "Farming Simulator VR",
+    "com.NeonicGameStudios.MoorhuhnVRBlast" : "Crazy Chicken - VR Blast",
+    "com.FunktronicLabs.TheLightBrigade" : "The Light Brigade",
     "com.com.spectralgames.Medieval" : "Medieval Dynasty",
     "com.Ace.Ace" : "Ace XR",
     "com.hg.TMVR" : "Townsmen VR",
