@@ -10,6 +10,9 @@
 # Oculus Quest Ports
 #
 #
+    "com.downpourinteractive.onward" : "Onward",
+    "com.InnoverseLtd.FrenzyVR" : "Frenzy VR",
+    "com.AnotherAxiom.GorillaTag" : "Gorilla Tag",
     "com.GIANTSSoftware.FarmingSimulatorVR" : "Farming Simulator VR",
     "com.NeonicGameStudios.MoorhuhnVRBlast" : "Crazy Chicken - VR Blast",
     "com.FunktronicLabs.TheLightBrigade" : "The Light Brigade",
