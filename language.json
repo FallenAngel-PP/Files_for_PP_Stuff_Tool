@@ -181,6 +181,8 @@
         "file27": "Initializing Game sizes...\n\nThis can take a while",
         "file28": "Games & Sizes",
         "file29": "Your 'Keys' folder for 'Renaming Method' is empty\nDo you want to use a Backup of your generated Signing Keys?\nWhen not, it will generate new keys",
+        "file30": "Do you want to create a backup of {file_r}?\nWhen clicking 'yes', you have to accept it in your headset",
+        "file31": "Create Backup...",
         "message1": "Pico 4 Ultra",
         "message2": "This function is not compatible to Pico 4 Ultra yet",
         "message3": "Modifying Active",
