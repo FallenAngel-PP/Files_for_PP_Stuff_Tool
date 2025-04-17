@@ -553,6 +553,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.axis.drawingdeskvr" : "Drawing Desk",
+    "com.srey.srey" : "VR Art Healing",
     "com.DigitalIntelligence.urbandash" : "Urban Dash",
     "com.GetWellPals.GWP_XRI" : "Get Well Pals MRI Sim",
     "llc.gonay.superhero" : "SuperHero Fitness",
